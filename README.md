@@ -1,4 +1,4 @@
-# HabitNote 
+# HabitNote 📝
 
 A clean and minimal note-taking Android app built with Jetpack Compose and Material 3.
 
@@ -66,8 +66,7 @@ data class Habit(
 
 ## Screenshots
 
+| Home (Grid) | View Note | Color Picker | Long Press Menu |
+|---|---|---|---|
+| ![Home](screenshot_home.png) | ![View](screenshot_view.png) | ![Color](screenshot_color.png) | ![Menu](screenshot_menu.png) |
 
-
-## License
-
-MIT
