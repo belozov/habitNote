@@ -66,9 +66,7 @@ data class Habit(
 
 ## Screenshots
 
-| Home (Grid) | Add Note | Color Picker |
-|---|---|---|
-| Notes displayed in staggered grid | Title + body text fields | Pick a color for your note |
+
 
 ## License
 
