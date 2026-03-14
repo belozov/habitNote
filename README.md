@@ -68,5 +68,5 @@ data class Habit(
 
 | Home (Grid) | View Note | Color Picker | Long Press Menu |
 |---|---|---|---|
-| ![Home](screenshot_home.png) | ![View](screenshot_view.png) | ![Color](screenshot_color.png) | ![Menu](screenshot_menu.png) |
+| ![Home](screenshots/screenshot_home.png) | ![View](screenshots/screenshot_view.png) | ![Color](screenshots/screenshot_color.png) | ![Menu](screenshots/screenshot_menu.png) |
 
