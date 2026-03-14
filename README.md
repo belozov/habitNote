@@ -70,3 +70,6 @@ data class Habit(
 |---|---|---|---|
 | ![Home](screenshots/screenshot_home.png) | ![View](screenshots/screenshot_view.png) | ![Color](screenshots/screenshot_color.png) | ![Menu](screenshots/screenshot_menu.png) |
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
